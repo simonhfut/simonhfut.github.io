@@ -14,7 +14,7 @@ redirect_from:
 
 Research Interests
 ======
-My research interests lie in the general area of signal processing and machine learning, particularly in sparse representation and deep learning, as well as their applications in fault diagnosis, condition monitoring and healthcare.
+My research interests lie in the general area of machine learning and PHM, particularly in deep learning, as well as their applications in fault diagnosis, remaining useful lifetime prediction.
 
 Recent News
 ======
