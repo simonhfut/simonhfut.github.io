@@ -20,4 +20,3 @@ Recent News
 ======
 * April 1, 2023. One paper titled “An Ensemble Method with DenseNet and Evidential Reasoning Rule for Machinery Fault Diagnosis under Imbalanced Condition” was accepted to Measurement
 * Feb 2, 2023. One paper titled “Hierarchical Graph Neural Network with Adaptive Cross-Graph Fusion for Remaining Useful Life Prediction” was accepted to Measurement Science and Technology
-* Mar. 01, 2020. One paper titled “Fault-Attention Generative Probabilistic Adversarial Autoencoder for Machine Anomaly Detection” was accepted to TII
