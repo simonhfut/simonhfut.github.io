@@ -8,10 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently an assistant professor in the [School of Mechanical Engineering] at [Xi’an Jiaotong University](http://www.hfut.edu.cn).
-* I was a visiting Ph.D. student in the Department of Computer Science and the Center for Health Informatics at University of Manchester advised by Prof. David Wong and Prof. David Clifton.
-* I received my Ph.D. Degree in the School of Mechanical Engineering at Xi’an Jiaotong University, advised by Prof. Shibin Wang and Prof. Xuefeng Chen. [Curriculum Vitae] [Google Scholar]
-* I received my Bachelor’s Degree in Xi’an Jiaotong University. My undergraduate research advisor is Prof. Xuefeng Chen.
+* I am currently an assistant professor in the [School of Management](http://som.hfut.edu.cn/) at [Hefei University of Technology](http://www.hfut.edu.cn).
+* I received my Ph.D. Degree in the School of Management at Hefei University of Technology.
+* I received my Master’s Degree in University of Science and Technology of China. 
 
 A data-driven personal website
 ======
